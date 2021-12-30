@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T07:18:35.232Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="tMCtEHriThovGQqkoSD3" version="16.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-30T07:21:11.108Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="x9Q6uW4QeQQHyMJ4E7Sh" version="16.1.0" type="github" pages="2">
   <diagram id="_noqiSW378toQs2qWj4v" name="list.c--linux里的链表">
     <mxGraphModel dx="1865" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="505" y="340" />
-              <mxPoint x="200" y="340" />
+              <mxPoint x="210" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -120,7 +120,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lPBpgQO8cfQs--RiFUvr-79" value="=2表示其中一个LTD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPBpgQO8cfQs--RiFUvr-78">
+        <mxCell id="lPBpgQO8cfQs--RiFUvr-79" value="=1表示其中一个LTD" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lPBpgQO8cfQs--RiFUvr-78">
           <mxGeometry x="-0.0375" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -161,7 +161,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="lPBpgQO8cfQs--RiFUvr-37" value="GTD" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sFphhS1bNGxPr_L0Inlw-1">
-          <mxGeometry x="170" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="180" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lPBpgQO8cfQs--RiFUvr-42" value="" style="group" vertex="1" connectable="0" parent="sFphhS1bNGxPr_L0Inlw-1">
           <mxGeometry x="150" y="410" width="120" height="60" as="geometry" />
