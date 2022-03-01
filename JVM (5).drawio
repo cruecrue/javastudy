@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T05:35:02.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="hVToxVyzJStR4qWnyjgS" version="16.6.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-03-01T05:35:35.699Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.62" etag="6uKy1KDB4e-mVFA_wri6" version="16.6.1" type="github" pages="3">
   <diagram id="TDiGAL2X2Zq-7PlaV9LO" name="Page-1">
     <mxGraphModel dx="1038" dy="2909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -277,6 +277,9 @@
         <mxCell id="eYndfs54rPFblCkkmIbf-5" value="POS支付" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eYndfs54rPFblCkkmIbf-1">
           <mxGeometry x="80" y="320" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eYndfs54rPFblCkkmIbf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eYndfs54rPFblCkkmIbf-1" source="eYndfs54rPFblCkkmIbf-6" target="eYndfs54rPFblCkkmIbf-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eYndfs54rPFblCkkmIbf-6" value="数据采集&lt;br&gt;KAFKAPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eYndfs54rPFblCkkmIbf-1">
           <mxGeometry x="280" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -329,6 +332,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="320" as="sourcePoint" />
             <mxPoint x="560" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYndfs54rPFblCkkmIbf-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="eYndfs54rPFblCkkmIbf-1" source="eYndfs54rPFblCkkmIbf-16" target="eYndfs54rPFblCkkmIbf-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="230" as="sourcePoint" />
+            <mxPoint x="800" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYndfs54rPFblCkkmIbf-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="eYndfs54rPFblCkkmIbf-1" source="eYndfs54rPFblCkkmIbf-16" target="eYndfs54rPFblCkkmIbf-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="240" as="sourcePoint" />
+            <mxPoint x="810" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eYndfs54rPFblCkkmIbf-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="eYndfs54rPFblCkkmIbf-1" source="eYndfs54rPFblCkkmIbf-16" target="eYndfs54rPFblCkkmIbf-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="250" as="sourcePoint" />
+            <mxPoint x="820" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
