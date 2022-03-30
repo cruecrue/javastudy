@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T06:11:51.113Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="-Uk1brpWjwCtyQpY1Kca" version="17.1.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-03-30T06:53:54.353Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tRhBVdExSHVOhpmrsb8x" version="17.1.0" type="github" pages="5">
   <diagram id="TDiGAL2X2Zq-7PlaV9LO" name="Page-1">
     <mxGraphModel dx="1038" dy="2878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -555,8 +555,8 @@
         <mxCell id="ngEFF3abWuljODZ08IvB-57" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="MCgHwbTcWZS_QidLRDNL-1">
           <mxGeometry x="900" y="1020" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ngEFF3abWuljODZ08IvB-58" value="各领域推荐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3399;" vertex="1" parent="MCgHwbTcWZS_QidLRDNL-1">
-          <mxGeometry x="500" y="498" width="180" height="30" as="geometry" />
+        <mxCell id="ngEFF3abWuljODZ08IvB-58" value="各领域推荐（红色为推荐选用）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3399;" vertex="1" parent="MCgHwbTcWZS_QidLRDNL-1">
+          <mxGeometry x="500" y="498" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
