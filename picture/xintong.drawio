@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T05:25:58.720Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="U3QvMTplMrHoLPfMQG7P" version="20.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-29T05:27:54.149Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="gf8LvmFvwf7F8cEu34O1" version="20.3.7" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="整体架构">
     <mxGraphModel dx="1038" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -261,7 +261,10 @@
           <mxGeometry x="540" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="skKxPOEKgKFlDp9Mo1lO-5" value="报警功能" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="skKxPOEKgKFlDp9Mo1lO-7" value="业务恢复" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
