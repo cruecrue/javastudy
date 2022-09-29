@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T05:18:48.480Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="ExLMImJBq3tzDRw0qCM1" version="20.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-29T05:23:29.993Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="E7YywA_FJ_5ayeG39Qak" version="20.3.7" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="整体架构">
     <mxGraphModel dx="1038" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -254,7 +254,7 @@
         <mxCell id="skKxPOEKgKFlDp9Mo1lO-1" value="CPU&lt;br&gt;内存&lt;br&gt;存储&lt;br&gt;网络" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="skKxPOEKgKFlDp9Mo1lO-3" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="skKxPOEKgKFlDp9Mo1lO-3" value="JVM(运行时监控)&lt;br&gt;对外服务端口监控&lt;br&gt;日志监控（日志分析）" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="300" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
